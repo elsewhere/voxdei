@@ -1,0 +1,1 @@
+This contains the Vox Dei dynamic demo from Icons 2007. It was disqualified from the compo because it crashed occasionally on the compo machine, a bug that was never fixed. It plays a random mp3 from the data directory and randomizes parts of the visuals. 
