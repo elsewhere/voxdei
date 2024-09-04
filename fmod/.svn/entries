@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="296"
+   name=""
+   committed-date="2006-12-05T09:30:16.980317Z"
+   url="https://traction.evo.bombsquad.org/trunk/demotractor/fmod"
+   last-author="rale"
+   kind="dir"
+   uuid="776f1f59-2417-0410-a9aa-924cb6ab1a79"
+   repos="https://traction.evo.bombsquad.org"
+   revision="496"/>
+<entry
+   committed-rev="296"
+   name="fmod_dsp.h"
+   text-time="2006-12-10T00:35:36.093750Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="bb3e12d19a773811c750d88a0bf11209"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:35.734375Z"/>
+<entry
+   committed-rev="296"
+   name="fmod_errors.h"
+   text-time="2006-12-10T00:35:36.093750Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="fa8b85ed7f6f960249f9884f22cfd742"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:35.781250Z"/>
+<entry
+   committed-rev="296"
+   name="fmod_codec.h"
+   text-time="2006-12-10T00:35:36.093750Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="6e332a4ea2d71f1fbc50de0b926dd5a2"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:35.796875Z"/>
+<entry
+   committed-rev="296"
+   name="fmod.h"
+   text-time="2006-12-10T00:35:36.109375Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="2f8190994712745a0c67748327220dd4"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:36.015625Z"/>
+<entry
+   committed-rev="296"
+   name="fmod.hpp"
+   text-time="2006-12-10T00:35:36.109375Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="8de965eade7793072bf4cd313e7cc048"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:36.078125Z"/>
+<entry
+   committed-rev="296"
+   name="fmod_output.h"
+   text-time="2006-12-10T00:35:36.125000Z"
+   committed-date="2006-12-05T09:30:16.980317Z"
+   checksum="adfad848454b56c662e4be75ceaa1d71"
+   last-author="rale"
+   kind="file"
+   prop-time="2006-12-10T00:35:36.078125Z"/>
+</wc-entries>

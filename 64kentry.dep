@@ -1,0 +1,166 @@
+# Microsoft Developer Studio Generated Dependency File, included by 64kentry.mak
+
+.\Effects\alku.cpp : \
+	".\Effects\alku.hpp"\
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\Effects\atomi.cpp : \
+	".\Effects\atomi.hpp"\
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\Effects\bigbang.cpp : \
+	".\Effects\bigbang.hpp"\
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\Effects\molekyyli.cpp : \
+	".\Effects\molekyyli.hpp"\
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\font.cpp : \
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\main.cpp : \
+	".\Effects\alku.hpp"\
+	".\Effects\atomi.hpp"\
+	".\Effects\bigbang.hpp"\
+	".\Effects\molekyyli.hpp"\
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\minifmod\minifmod.h"\
+	".\misc.hpp"\
+	".\primitives.hpp"\
+	".\sound.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\matikka.cpp : \
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\matrix.cpp : \
+	".\matrix.hpp"\
+	
+
+.\primitives.cpp : \
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\sound.cpp : \
+	".\minifmod\minifmod.h"\
+	".\sound.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\spline.cpp : \
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\texture.cpp : \
+	".\font.hpp"\
+	".\matikka.h"\
+	".\matrix.hpp"\
+	".\primitives.hpp"\
+	".\spline.hpp"\
+	".\stuff.hpp"\
+	".\texture.hpp"\
+	".\vector.hpp"\
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\vector.cpp : \
+	".\matrix.hpp"\
+	".\vector.hpp"\
+	
+
+.\win32.cpp : \
+	".\win32.hpp"\
+	"c:\dxsdk\include\basetsd.h"\
+	
+
+.\Script1.rc : \
+	".\music.bin"\
+	
